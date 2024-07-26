@@ -2,29 +2,23 @@
 A Basic Movie Ticket Booking System. 
 ## Admin:
 Chintala Chaitanya
-Computer Science And Engineering
+
+Computer Science And Engineering Student
 ## About
 The Software system is an online movie ticket booking system where customers can book seats according to their preference.<br>
 ## Technologies Used
+* HTML
+* CSS
+* Git
+* Bootstrap
 * SpringBoot
 * Java
 * AngularJS
-* Git
-* HTML
-* CSS
-* Bootstrap
+
 ## Features
 * All active movies are available for booking.
 * Customer can select seat according to their preference.
 * System is validated for smooth functioning.
-## Preview
-<table>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/112768196/205480789-a5ff4ac0-6090-49be-b00f-d280084b7e20.png" alt="Your image title" width="250" height="100"/></td>
-    <td><img src="https://user-images.githubusercontent.com/112768196/205480811-b27b0670-ed1d-4623-a5ba-250189b6498e.png" alt="Your image title" width="250" height="100"/></td>
-  </tr>
-</table>
-
 ## Database 
 For sample purpose, h2 database(local database) is integrated with the application so that application can run for any user.<br>
 If user want to change the database, they can make relevant changes in "application.properties" file.<br>
